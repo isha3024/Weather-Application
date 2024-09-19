@@ -4,7 +4,6 @@ A modern, responsive weather application built with React Native that provides c
 
 ## Table of Contents
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Requirements](#requirements)
 - [Setup and Installation](#setup-and-installation)
@@ -24,13 +23,6 @@ A modern, responsive weather application built with React Native that provides c
 - **Custom Icons:** Displays weather conditions with customized icons for temperature, wind, humidity, etc.
 - **Responsive Design:** Optimized for both Android and iOS devices.
 - **Error Handling:** Displays appropriate messages for denied permissions, network errors, or invalid city names.
-
----
-
-## Screenshots
-
-![Home Screen](link_to_home_screen_screenshot)
-![Weather Forecast](link_to_forecast_screenshot)
 
 ---
 
