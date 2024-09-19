@@ -60,16 +60,19 @@ cd Weather-Application
 ### 2. Install Dependencies
 ```bash
 npm install
+```
 
 ### 3. Configure API Key
 In order to access the OpenWeather API, you'll need to configure the API key.
 
 1. Sign up at [OpenWeather](https://openweathermap.org/api) and generate an API key.
+```
 
 ### 4. Link Dependencies
 Some native libraries (like geolocation) require linking. Run the following command:
 ```bash
 npx react-native link
+```
 
 ### 5. Run the Application
 
