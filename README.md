@@ -34,7 +34,6 @@ A modern, responsive weather application built with React Native that provides c
 - **Axios** - Handles API requests to the weather service.
 - **@react-native-community/geolocation** - For retrieving the device's location.
 - **OpenWeather API** - Provides weather data and forecasts.
-- **Styled Components** - For styling the application in a modular way.
   
 ---
 
